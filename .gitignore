@@ -1,0 +1,12 @@
+*.exe 
+*.zip 
+*.msi 
+*.docx 
+*.png 
+*.jpg 
+*.jfif 
+*.mp4 
+*.pt 
+runs/ 
+__pycache__/ 
+.venv/ 
